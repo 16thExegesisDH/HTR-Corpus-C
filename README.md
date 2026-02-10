@@ -11,12 +11,25 @@ The data can be found at `./data/**/*xml` in ALTO format and follow [SegmOnto se
 
 * Corpus-C 
 
-file in csv : [`Corpus C.csv`](corpus/Corpus_C.csv)
+file in csv : [`Corpus C.csv`](corpus/Corpus_C_priority_1.csv)
+
+ - 1.st part of Corpus-C : 4233 images 
 
 | Identifier | Segmentation | Transcription | Page | Author | Title | Printer | Date | Place | Library & Call number |
 |-----------|--------------|---------------|------|--------|-------|---------|------|-------|----------------------|
-| Lefevre_1-Tim_C2 | gold | gold | 3 | Jacques Lefèvre d'Etaples | Commentarii in epistolas d. Pauli | Anonymus | 1512 | Paris | [Regensburg SB – 999/2Script.801](https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11059254-9) |
-
+| Bugenhagen_Rm       | no           | no            | 374  | Johannes Bugenhagen    | In epistolam Pauli ad Romanos Interpretatio                           | Johannes Secerius | 1527 | Hagenau     | [Österreichische Nationalbibliothek – 77.K.55 ALT PRUNK](https://data.onb.ac.at/rep/10AC1F79)                             |
+| Calvin_Rm           | no           | no            | 461  | Jean Calvin            | Commentarij in Epistolam Pauli ad Romanos                             | Rihel             | 1540 | Strassbourg | [Regensburg, Staatliche Bibliothek – 999/Theol.syst.1101(1](https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11119106-3) |
+| Erasmus_Cor         | no           | no            | 224  | Desiderius Erasme      | Paraphrasis in duas epistolas Pauli ad Corinthios                     | Froben            | 1519 | Basel       | [Universitätsbibliothek Basel – UBH FC* III 8:2](https://doi.org/10.3931/e-rara-3172)                                     |
+| Hemmingsen_Rm       | no           | no            | 530  | Niels Hemmigsen        | Commentarius in epistolam Pauli ad Romanos                            | Voegelin Ernst    | 1562 | Leipzig     | [München, Bayerische Staatsbibliothek – Exeg. 470](http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10176721-0)           |
+| Knopken_Rm          | no           | no            | 182  | Andreas Knopken        | In epistolam ad Romanos interpretatio                                 | Johann Petreius   | 1524 | Nuernberg   | [Österreichische Nationalbibliothek – 79.Ee.102 ALT PRUNK](https://onb.digital/result/109892B3)                           |
+| Major_Rm            | no           | no            | 288  | Georg Maior            | Series et dispositio orationis in epistola Pauli ad Romanos           | Hans Luft         | 1556 | Wittenberg  | [München, Bayerische Staatsbibliothek – Exeg. 730#Beibd.1](https://www.digitale-sammlungen.de/en/details/bsb10176888)     |
+| Megander_Eph        | no           | no            | 282  | Kaspar Megander        | In epistolam Pauli ad Ephesios commentarius                           | Henrichus Petri   | 1534 | Basel       | [München, Bayerische Staatsbibliothek – Exeg. 700 m](https://www.digitale-sammlungen.de/en/details/bsb00036972)           |
+| Melanchthon_Rom-Cor | no           | no            | 314  | Philipp Melanchthon    | Annotationes in epistolam Pauli ad Romanos unam et ad Corinthios duas | Johannes Herwagen | 1523 | Strassburg  | [Staatsbibliothek zu Berlin – Bt 2552](https://digital.staatsbibliothek-berlin.de/werkansicht/?PPN=PPN773861106)          |
+| Oekolampadius_Rom   | no           | no            | 220  | Johannes Oekolampadius | In epistolam B. Pauli apost. ad Rhomanos adnotationes                 | Cratander         | 1525 | Basel       | [Zentralbibliothek Zürich – C 283,2](https://doi.org/10.3931/e-rara-8160)                                                 |
+| Oekolampadius_Hebr  | no           | no            | 382  | Johannes Oekolampadius | In Epistolam Ad Hebraeos explanationes                                | —                 | 1534 | Basel       | [München, Bayerische Staatsbibliothek – Hom. 1112#Beibd.1](https://www.digitale-sammlungen.de/en/details/bsb10180052)     |
+| Olevian_Eph         | no           | no            | 304  | Kaspar Olevian         | Notae in epistolam Pauli apostoli ad Ephesios                         | Christoph Corvin  | 1588 | Herborna    | [München, Bayerische Staatsbibliothek – Exeg. 816](https://www.digitale-sammlungen.de/en/details/bsb10176929)             |
+| Rollock_Eph         | no           | no            | 448  | Robert Rollock         | In Epistolam S. Pauli apostoli ad Ephesios                            | François le Preux | 1593 | Genève      | [Universitätsbibliothek Basel – UBH Frey-Gryn G VI 22:1](https://doi.org/10.3931/e-rara-1263)                             |
+| Bucer_Eph_test      | no           | no            | 224  | Martin Bucer           | Epistolam ad Ephesios                                                 | Anonymus          | 1527 | Strassburg  | [München, Bayerische Staatsbibliothek – Polem. 408 Beibd.2](https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00035303-6) |
 
 ---
 

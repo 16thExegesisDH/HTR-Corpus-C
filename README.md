@@ -40,7 +40,6 @@ file in csv : [`Corpus C.csv`](corpus/Corpus_C_priority_1.csv)
 ```
 [exegete's name]_[epistle abbreviation]_[optional suffix]
 ```
-
 ### Components 
 
 | Component | Description | Examples |

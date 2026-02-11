@@ -1,3 +1,41 @@
+
+# HTR-Corpus-C
+
+![characters badge](badges/characters.svg) ![regions badge](badges/regions.svg) ![lines badge](badges/lines.svg) ![files badge](badges/files.svg)
+
+
+# Guideline for Beatrice 
+
+## I. Guideline for Segmentation
+
+* specific cases of the corpus
+
+### Ontology
+- **RunningTitleZone** for the running header at the top of the page
+- **GraphicZone** for all decorations (illustrations, ornamentation, etc)
+- **MainZone:Head** for intermediate headings and biblical verses when they are emphasized by the layout
+- **MainZone:P** for a paragraph
+- **MainZone:Continued** for the continuation of an interrupted paragraph
+- **NumberingZone** for numbering (pagination or foliation)
+- **DropCapitalZone** for drop capitals at the beginning of a section
+- **QuireMarkZone** or the organization of quires
+- **MarginTextZone-Note** for marginal comments
+
+### Examples
+
+| Description | Example |
+| -------- | ------- |
+| **RunningTitleZone**: viola <br/> **MainZone:Head**: orange <br/> **MainZone:P**: yellow <br/> **MainZone:Continued**: red <br/> **NumberingZone**: light blue <br/> **QuireMarkZone**: dark blue <br/>**MarginTextZone-Note**: green | <img src="/pictures/segmentationGL/bugenhagen_rm.png" width="300"/> |
+| **RunningTitleZone**: pink <br/> **DropCapitalZone**: dark viola <br/> **MainZone:Head**: yellow <br/> **MainZone:P**: dark green <br/> **MainZone:Continued**: light blue <br/> **NumberingZone**: rosa for "456", "II", "III" <br/> **QuireMarkZone**: viola <br/> **MarginTextZone-Note**: pink | <img src="/pictures/segmentationGL/Bucer_Rm_1.png" width="300"/> |
+| **RunningTitleZone**: pink for "VII" (Epistle number) and "Col" (Epistle name) <br/> **MainZone:Head**: yellow <br/> **MainZone:P**: dark green <br/> **MainZone:Continued**: light blue <br/> **NumberingZone**: rosa for "7", "8", "184" | <img src="/pictures/segmentationGL/Lefevre_1.png" width="300"/> |
+| **RunningTitleZone**: pink for "COM" <br/> **DropCapitalZone**: dark viola <br/> **MainZone:Head**: yellow <br/> **MainZone:P**: dark green <br/> **MainZone:Continued**: light blue <br/> **NumberingZone**: rosa for "1", "C4", "D4", "5", "6" | <img src="/pictures/segmentationGL/Lefevre_2.png" width="300"/> |
+| **RunningTitleZone**: red <br/> **MainZone:Continued**: viola <br/> **GraphicZone**: rosa </br>**DropCapitalZone**: viola<br/> **MainZone:Head** : light green <br/> **MainZone:P** : blue <br> **NumberingZone** : rosa <br/> **QuireMarkZone** : rosa | <img src="/pictures/segmentationGL/Lamb-Tim.png" width="300"/> |
+| **TitlePageZone**: light light viola <br/> **MarginTextZone-ManuscriptAddendum** red <br/> _for the manuscript annotation around the text_ <br/> | <img src="/pictures/segmentationGL/TitlePage.png" width="300"/> |
+
+* more information concerning transcription [here](https://github.com/16thExegesisDH/HTR_Paul_corpus/tree/main)
+
+The main documentation for the layout is here: [Annotation Guide on GitHub](https://github.com/DEFI-COLaF/LADaS/blob/main/AnnotationGuide.md).
+
 # HTR-Corpus-C
 
 ![characters badge](badges/characters.svg) ![regions badge](badges/regions.svg) ![lines badge](badges/lines.svg) ![files badge](badges/files.svg)

@@ -36,9 +36,6 @@
 
 The main documentation for the layout is here: [Annotation Guide on GitHub](https://github.com/DEFI-COLaF/LADaS/blob/main/AnnotationGuide.md).
 
-# HTR-Corpus-C
-
-![characters badge](badges/characters.svg) ![regions badge](badges/regions.svg) ![lines badge](badges/lines.svg) ![files badge](badges/files.svg)
 
 ## Data
 Silver-standard corpus; reviewed segmentation, corrected verses-level OCR

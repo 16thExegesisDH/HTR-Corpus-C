@@ -12,7 +12,59 @@ authors:
   - quality-control
   surname: Dupuis
 characters:
-  members: []
+  members:
+  - i
+  - u
+  - e
+  - t
+  - a
+  - ſ
+  - r
+  - m
+  - o
+  - n
+  - c
+  - s
+  - l
+  - d
+  - ','
+  - p
+  - .
+  - g
+  - q
+  - b
+  - E
+  - h
+  - f
+  - æ
+  - ¬
+  - ·
+  - I
+  - M
+  - ̀
+  - '&'
+  - C
+  - S
+  - P
+  - H
+  - x
+  - N
+  - '?'
+  - O
+  - ̃
+  - ':'
+  - D
+  - V
+  - '2'
+  - T
+  - R
+  - 
+  - '3'
+  - '1'
+  - A
+  - j
+  - ß
+  - Q
   mode: NFD
 description: Data for data for Paul’s exegesis.
 format: Alto-XML
@@ -38,11 +90,11 @@ title: Corpus-A
 transcription-guidelines: Our data follow SegmOnto segmentation standards (https://segmonto.github.io).
 url: https://github.com/16thExegesisDH/HTR-Corpus-C
 volume:
-- count: 0
+- count: 974
   metric: characters
-- count: 1
+- count: 2
   metric: files
-- count: 44
+- count: 74
   metric: lines
-- count: 5
+- count: 17
   metric: regions

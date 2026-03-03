@@ -46,7 +46,7 @@ The data can be found at `./data/**/*xml` in ALTO format and follow [SegmOnto se
 
 * Corpus-C 
 
-file in csv : [`Corpus C.csv`](corpus/Corpus_C_priority_1.csv)
+file in csv : [`Corpus C.csv`](corpus/Corpus-C_priority_1_v2.csv)
 
  - 1.st part of Corpus-C : 4233 images 
 

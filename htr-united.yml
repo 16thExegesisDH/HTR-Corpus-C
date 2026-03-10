@@ -15,54 +15,83 @@ characters:
   members:
   - i
   - e
+  - u
   - t
   - a
-  - u
-  - r
   - n
+  - r
   - o
   - m
-  - l
-  - c
   - ſ
+  - c
   - d
   - s
   - ','
+  - l
   - p
-  - g
-  - b
-  - ̃
-  - .
   - q
-  - æ
-  - f
+  - b
   - h
-  - x
-  - E
-  - '&'
-  - D
-  - P
-  - M
+  - g
+  - .
+  - f
   - ·
-  - S
-  - C
-  - ':'
-  - H
-  - N
-  - A
+  - ̃
+  - æ
+  - E
+  - D
   - I
-  - j
-  - L
+  - ¬
+  - P
+  - '&'
+  - C
+  - x
+  - A
+  - S
+  - M
+  - N
+  - V
+  - ':'
   - ̀
   - O
-  - ́
-  - 
-  - ¬
-  - z
-  - '5'
-  - T
   - R
+  - j
+  - T
+  - H
+  - Q
+  - ;
+  - 
+  - ß
+  - G
+  - '?'
+  - y
+  - L
+  - X
+  - '1'
+  - ́
+  - (
+  - )
+  - F
+  - '3'
+  - '-'
+  - B
+  - "'"
+  - 
+  - '4'
+  - '5'
+  - £
   - œ
+  - '0'
+  - ̈
+  - '9'
+  - '8'
+  - ̂
+  - v
+  - J
+  - '6'
+  - '"'
+  - '2'
+  - z
   mode: NFD
 description: Data for data for Paul’s exegesis.
 format: Alto-XML
@@ -88,11 +117,11 @@ title: Corpus-A
 transcription-guidelines: Our data follow SegmOnto segmentation standards (https://segmonto.github.io).
 url: https://github.com/16thExegesisDH/HTR-Corpus-C
 volume:
-- count: 1153
+- count: 21034
   metric: characters
-- count: 1
+- count: 21
   metric: files
-- count: 30
+- count: 657
   metric: lines
-- count: 6
+- count: 214
   metric: regions

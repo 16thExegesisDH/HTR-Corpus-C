@@ -21,51 +21,51 @@ characters:
   - n
   - o
   - r
-  - ſ
   - m
+  - ſ
   - c
   - d
   - s
-  - l
   - ','
+  - l
   - p
-  - q
   - ·
+  - q
   - b
   - h
   - g
-  - ̃
   - f
   - æ
+  - ̃
   - I
   - D
   - ᛘ
   - '&'
-  - .
   - E
+  - .
   - x
-  - P
-  - S
   - ¬
-  - C
+  - S
+  - P
   - M
   - N
+  - C
   - ':'
   - A
   - V
   - O
-  - R
   - T
+  - R
   - G
+  - Q
   - ̀
   - j
-  - Q
   - H
   - ß
   - 
   - y
-  - L
   - ;
+  - L
   - '?'
   - '1'
   - B
@@ -75,20 +75,20 @@ characters:
   - œ
   - X
   - '4'
-  - '5'
   - (
   - )
-  - '3'
-  - v
+  - '5'
   -  
+  - '3'
   - '-'
-  - '0'
+  - v
   - '7'
-  - ̈
   - '9'
+  - '0'
+  - '6'
+  - ̈
   - '8'
   - 
-  - '6'
   - z
   - "'"
   - ̂
@@ -122,11 +122,11 @@ title: Corpus-A
 transcription-guidelines: Our data follow SegmOnto segmentation standards (https://segmonto.github.io).
 url: https://github.com/16thExegesisDH/HTR-Corpus-C
 volume:
-- count: 50657
+- count: 55952
   metric: characters
-- count: 51
+- count: 56
   metric: files
-- count: 1570
+- count: 1732
   metric: lines
-- count: 506
+- count: 554
   metric: regions

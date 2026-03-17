@@ -1,22 +1,13 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <mets xmlns="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink">
   <fileSec>
     
     <fileGrp USE="export">
       
         <file ID="export1">
-          <FLocat xlink:href="10AC1F79_uk4nGb4kRHQPvrdX_00021.xml"/>
-        </file>
-      
-        <file ID="export2">
-          <FLocat xlink:href="10AC1F79_uk4nGb4kRHWwTgmo_00022.xml"/>
-        </file>
-      
-        <file ID="export3">
           <FLocat xlink:href="10AC1F79_uk4nGb4kRHdUzWv5_00023.xml"/>
         </file>
       
-        <file ID="export4">
+        <file ID="export2">
           <FLocat xlink:href="10AC1F79_uk4nGb4kRHk2XM4M_00024.xml"/>
         </file>
       
@@ -33,16 +24,6 @@
       <div TYPE="page">
         
         <fptr FILEID="export2"/>
-      </div>
-      
-      <div TYPE="page">
-        
-        <fptr FILEID="export3"/>
-      </div>
-      
-      <div TYPE="page">
-        
-        <fptr FILEID="export4"/>
       </div>
       
     </div>

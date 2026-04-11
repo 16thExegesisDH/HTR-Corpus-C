@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-3.xsd">
+    <Description>
+        <MeasurementUnit>pixel</MeasurementUnit>
+        <sourceImageInformation>
+            <fileName>bsb00036972_00282.jpg</fileName>
+        </sourceImageInformation>
+        <Processing ID="OCR_">
+            <processingCategory>contentGeneration</processingCategory>
+            <processingStepDescription>Baseline and region segmentation</processingStepDescription>
+            <processingStepSettings>model: blla.mlmodel; text_direction: horizontal-lr</processingStepSettings>
+            <processingSoftware>
+                <softwareName>kraken</softwareName>
+                <softwareVersion>5.3.0</softwareVersion>
+            </processingSoftware>
+        </Processing>
+    </Description>
+    <Tags>
+        <OtherTag DESCRIPTION="line type" ID="LINE_TYPE_1" TYPE="type" LABEL="DefaultLine"/>
+        <OtherTag DESCRIPTION="region type" ID="REGION_TYPE_1" TYPE="region" LABEL="MainZone-Head"/>
+        <OtherTag DESCRIPTION="region type" ID="REGION_TYPE_2" TYPE="region" LABEL="MarginTextZone-ManuscriptAddendum"/>
+        <OtherTag DESCRIPTION="region type" ID="REGION_TYPE_3" TYPE="region" LABEL="GraphicZone"/>
+        <OtherTag DESCRIPTION="region type" ID="REGION_TYPE_4" TYPE="region" LABEL="NumberingZone"/>
+        <OtherTag DESCRIPTION="region type" ID="REGION_TYPE_5" TYPE="region" LABEL="QuireMarksZone"/>
+        <OtherTag DESCRIPTION="region type" ID="REGION_TYPE_6" TYPE="region" LABEL="DropCapitalZone"/>
+        <OtherTag DESCRIPTION="region type" ID="REGION_TYPE_7" TYPE="region" LABEL="MainZone-Continued"/>
+        <OtherTag DESCRIPTION="region type" ID="REGION_TYPE_8" TYPE="region" LABEL="MarginTextZone"/>
+        <OtherTag DESCRIPTION="region type" ID="REGION_TYPE_9" TYPE="region" LABEL="text"/>
+        <OtherTag DESCRIPTION="region type" ID="REGION_TYPE_10" TYPE="region" LABEL="RunningTitleZone"/>
+        <OtherTag DESCRIPTION="region type" ID="REGION_TYPE_11" TYPE="region" LABEL="TitlePageZone"/>
+        <OtherTag DESCRIPTION="region type" ID="REGION_TYPE_12" TYPE="region" LABEL="GraphicZone-Decoration"/>
+        <OtherTag DESCRIPTION="region type" ID="REGION_TYPE_13" TYPE="region" LABEL="MainZone-Entry"/>
+        <OtherTag DESCRIPTION="region type" ID="REGION_TYPE_14" TYPE="region" LABEL="MarginTextZone-Notes"/>
+        <OtherTag DESCRIPTION="region type" ID="REGION_TYPE_15" TYPE="region" LABEL="MainZone-P"/>
+    </Tags>
+    <Layout>
+        <Page WIDTH="1224" HEIGHT="1854" PHYSICAL_IMG_NR="0" ID="page_0">
+            <PrintSpace HPOS="0" VPOS="0" WIDTH="1224" HEIGHT="1854">
+                <TextBlock ID="block_1" HPOS="285" VPOS="692" WIDTH="786" HEIGHT="58" TAGREFS="REGION_TYPE_10">
+<Shape>
+                        <Polygon POINTS="285 692 1071 692 1071 750 285 750 285 692"/>
+                    </Shape>
+                    <TextLine ID="line_1" HPOS="724" VPOS="696" WIDTH="20" HEIGHT="52" BASELINE="724 735 744 735" TAGREFS="LINE_TYPE_1">
+                        <Shape>
+                            <Polygon POINTS="724 735 724 744 743 748 744 735 743 696 724 698 724 735"/>
+                        </Shape>
+                        <String CONTENT=""/>
+                    </TextLine>
+
+                    <TextLine ID="line_2" HPOS="768" VPOS="717" WIDTH="26" HEIGHT="40" BASELINE="768 735 794 735" TAGREFS="LINE_TYPE_1">
+                        <Shape>
+                            <Polygon POINTS="768 735 768 752 793 757 794 735 794 718 768 717 768 735"/>
+                        </Shape>
+                        <String CONTENT=""/>
+                    </TextLine>
+
+                    <TextLine ID="line_3" HPOS="900" VPOS="700" WIDTH="18" HEIGHT="53" BASELINE="900 737 918 737" TAGREFS="LINE_TYPE_1">
+                        <Shape>
+                            <Polygon POINTS="900 737 900 753 918 752 918 737 918 702 900 700 900 737"/>
+                        </Shape>
+                        <String CONTENT=""/>
+                    </TextLine>
+
+                    <TextLine ID="line_4" HPOS="952" VPOS="701" WIDTH="7" HEIGHT="52" BASELINE="952 739 959 739" TAGREFS="LINE_TYPE_1">
+                        <Shape>
+                            <Polygon POINTS="952 739 952 752 958 753 959 739 957 701 952 702 952 739"/>
+                        </Shape>
+                        <String CONTENT=""/>
+                    </TextLine>
+</TextBlock>
+                <TextBlock ID="block_2" HPOS="326" VPOS="758" WIDTH="691" HEIGHT="62" TAGREFS="REGION_TYPE_10">
+<Shape>
+                        <Polygon POINTS="326 758 1017 758 1017 820 326 820 326 758"/>
+                    </Shape>
+                    <TextLine ID="line_5" HPOS="346" VPOS="758" WIDTH="251" HEIGHT="55" BASELINE="347 791 597 796" TAGREFS="LINE_TYPE_1">
+                        <Shape>
+                            <Polygon POINTS="470 758 460 758 450 758 439 758 429 758 419 758 409 758 398 758 388 758 378 758 367 758 357 758 347 758 347 791 346 806 414 803 423 810 424 810 425 810 467 811 468 811 469 811 493 804 511 811 512 811 513 811 514 811 515 811 523 805 575 813 576 813 578 813 596 805 597 796 597 762 471 758 470 758"/>
+                        </Shape>
+                        <String CONTENT=""/>
+                    </TextLine>
+
+                    <TextLine ID="line_6" HPOS="648" VPOS="758" WIDTH="30" HEIGHT="53" BASELINE="649 797 677 799" TAGREFS="LINE_TYPE_1">
+                        <Shape>
+                            <Polygon POINTS="649 797 648 805 662 811 663 811 664 811 665 811 676 806 677 799 678 761 650 758 649 797"/>
+                        </Shape>
+                        <String CONTENT=""/>
+                    </TextLine>
+
+                    <TextLine ID="line_7" HPOS="691" VPOS="763" WIDTH="59" HEIGHT="55" BASELINE="692 800 750 802" TAGREFS="LINE_TYPE_1">
+                        <Shape>
+                            <Polygon POINTS="692 800 691 813 748 818 750 802 750 764 692 763 692 800"/>
+                        </Shape>
+                        <String CONTENT=""/>
+                    </TextLine>
+
+                    <TextLine ID="line_8" HPOS="772" VPOS="767" WIDTH="13" HEIGHT="45" BASELINE="773 802 780 803" TAGREFS="LINE_TYPE_1">
+                        <Shape>
+                            <Polygon POINTS="773 802 772 812 778 811 780 803 785 768 777 767 773 802"/>
+                        </Shape>
+                        <String CONTENT=""/>
+                    </TextLine>
+
+                    <TextLine ID="line_9" HPOS="838" VPOS="772" WIDTH="159" HEIGHT="82" BASELINE="838 803 997 804" TAGREFS="LINE_TYPE_1">
+                        <Shape>
+                            <Polygon POINTS="838 803 838 852 852 846 889 851 890 851 891 851 909 846 935 853 936 853 937 854 966 854 966 853 967 853 968 853 968 852 974 847 995 850 997 804 996 772 838 772 838 803"/>
+                        </Shape>
+                        <String CONTENT=""/>
+                    </TextLine>
+</TextBlock>
+            </PrintSpace>
+        </Page>
+    </Layout>
+</alto>

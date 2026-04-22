@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
-      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
   <Description>
     <MeasurementUnit>pixel</MeasurementUnit>
     <sourceImageInformation>
@@ -13,29 +11,12 @@
     <OtherTag ID="LT7" LABEL="CustomLine" DESCRIPTION="line type CustomLine"/><OtherTag ID="LT8" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT9" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT10" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT11" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT12" LABEL="MusicLine" DESCRIPTION="line type MusicLine"/>
   </Tags>
   <Layout>
-    <Page WIDTH="978"
-          HEIGHT="1755"
-          PHYSICAL_IMG_NR="0"
-          ID="eSc_dummypage_">
-      <PrintSpace HPOS="0"
-                  VPOS="0"
-                  WIDTH="978"
-                  HEIGHT="1755">
-        <TextBlock ID="eSc_dummyblock_">
-          <TextLine ID="line_1"
-                    TAGREFS="LT8"
-                    BASELINE="331 1599 566 1600 703 1595" 
-                    HPOS="330.0"
-                    VPOS="1551.0"
-                    WIDTH="373.0"
-                    HEIGHT="69.0">
+    <Page WIDTH="978" HEIGHT="1755" PHYSICAL_IMG_NR="0" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="978" HEIGHT="1755">
+        <TextBlock ID="block_1">
+          <TextLine ID="line_1" TAGREFS="LT8" BASELINE="331 1599 566 1600 703 1595" HPOS="330.0" VPOS="1551.0" WIDTH="373.0" HEIGHT="69.0">
             <Shape><Polygon POINTS="331 1599 331 1612 365 1619 366 1619 396 1613 404 1619 405 1619 406 1619 407 1620 504 1620 504 1619 505 1619 506 1619 513 1613 547 1618 547 1619 570 1619 570 1618 571 1618 572 1618 579 1612 605 1617 606 1617 607 1617 608 1617 615 1612 664 1618 665 1618 665 1618 666 1618 674 1612 702 1614 703 1595 701 1558 624 1551 623 1551 622 1551 621 1551 612 1558 587 1552 586 1552 586 1552 585 1552 561 1558 545 1551 544 1551 543 1551 542 1551 541 1551 530 1559 394 1552 393 1552 392 1552 391 1552 387 1557 376 1553 375 1553 374 1553 330 1559 331 1599"/></Shape>
-            <String CONTENT="EGENSBUR."
-                    HPOS="330.0"
-                    VPOS="1551.0"
-                    WIDTH="373.0"
-                    HEIGHT="69.0"
-                    WC="0.9987884163856506"></String>
+            <String CONTENT="EGENSBUR." HPOS="330.0" VPOS="1551.0" WIDTH="373.0" HEIGHT="69.0" WC="0.9987884163856506"/>
           </TextLine>
         </TextBlock>
       </PrintSpace>

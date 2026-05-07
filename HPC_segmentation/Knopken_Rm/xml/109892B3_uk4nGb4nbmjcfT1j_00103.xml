@@ -18,25 +18,25 @@
     <Tags>
         <OtherTag DESCRIPTION="line type" ID="LINE_TYPE_1" TYPE="type" LABEL="DefaultLine"/>
         <OtherTag DESCRIPTION="region type" ID="REGION_TYPE_1" TYPE="region" LABEL="MarginTextZone"/>
-        <OtherTag DESCRIPTION="region type" ID="REGION_TYPE_2" TYPE="region" LABEL="text"/>
-        <OtherTag DESCRIPTION="region type" ID="REGION_TYPE_3" TYPE="region" LABEL="MainZone-Head"/>
-        <OtherTag DESCRIPTION="region type" ID="REGION_TYPE_4" TYPE="region" LABEL="DropCapitalZone"/>
-        <OtherTag DESCRIPTION="region type" ID="REGION_TYPE_5" TYPE="region" LABEL="MarginTextZone-ManuscriptAddendum"/>
-        <OtherTag DESCRIPTION="region type" ID="REGION_TYPE_6" TYPE="region" LABEL="MainZone-P"/>
-        <OtherTag DESCRIPTION="region type" ID="REGION_TYPE_7" TYPE="region" LABEL="TitlePageZone"/>
-        <OtherTag DESCRIPTION="region type" ID="REGION_TYPE_8" TYPE="region" LABEL="MainZone-Continued"/>
+        <OtherTag DESCRIPTION="region type" ID="REGION_TYPE_2" TYPE="region" LABEL="MainZone-Entry"/>
+        <OtherTag DESCRIPTION="region type" ID="REGION_TYPE_3" TYPE="region" LABEL="DropCapitalZone"/>
+        <OtherTag DESCRIPTION="region type" ID="REGION_TYPE_4" TYPE="region" LABEL="NumberingZone"/>
+        <OtherTag DESCRIPTION="region type" ID="REGION_TYPE_5" TYPE="region" LABEL="TitlePageZone"/>
+        <OtherTag DESCRIPTION="region type" ID="REGION_TYPE_6" TYPE="region" LABEL="MarginTextZone-Notes"/>
+        <OtherTag DESCRIPTION="region type" ID="REGION_TYPE_7" TYPE="region" LABEL="MainZone-Head"/>
+        <OtherTag DESCRIPTION="region type" ID="REGION_TYPE_8" TYPE="region" LABEL="MarginTextZone-ManuscriptAddendum"/>
         <OtherTag DESCRIPTION="region type" ID="REGION_TYPE_9" TYPE="region" LABEL="GraphicZone-Decoration"/>
         <OtherTag DESCRIPTION="region type" ID="REGION_TYPE_10" TYPE="region" LABEL="GraphicZone"/>
-        <OtherTag DESCRIPTION="region type" ID="REGION_TYPE_11" TYPE="region" LABEL="QuireMarksZone"/>
-        <OtherTag DESCRIPTION="region type" ID="REGION_TYPE_12" TYPE="region" LABEL="MarginTextZone-Notes"/>
-        <OtherTag DESCRIPTION="region type" ID="REGION_TYPE_13" TYPE="region" LABEL="NumberingZone"/>
-        <OtherTag DESCRIPTION="region type" ID="REGION_TYPE_14" TYPE="region" LABEL="RunningTitleZone"/>
-        <OtherTag DESCRIPTION="region type" ID="REGION_TYPE_15" TYPE="region" LABEL="MainZone-Entry"/>
+        <OtherTag DESCRIPTION="region type" ID="REGION_TYPE_11" TYPE="region" LABEL="RunningTitleZone"/>
+        <OtherTag DESCRIPTION="region type" ID="REGION_TYPE_12" TYPE="region" LABEL="MainZone-P"/>
+        <OtherTag DESCRIPTION="region type" ID="REGION_TYPE_13" TYPE="region" LABEL="QuireMarksZone"/>
+        <OtherTag DESCRIPTION="region type" ID="REGION_TYPE_14" TYPE="region" LABEL="text"/>
+        <OtherTag DESCRIPTION="region type" ID="REGION_TYPE_15" TYPE="region" LABEL="MainZone-Continued"/>
     </Tags>
     <Layout>
         <Page WIDTH="1110" HEIGHT="1600" PHYSICAL_IMG_NR="0" ID="page_0">
             <PrintSpace HPOS="0" VPOS="0" WIDTH="1110" HEIGHT="1600">
-                <TextBlock ID="block_1" HPOS="155" VPOS="115" WIDTH="781" HEIGHT="53" TAGREFS="REGION_TYPE_14">
+                <TextBlock ID="block_1" HPOS="155" VPOS="115" WIDTH="781" HEIGHT="53" TAGREFS="REGION_TYPE_11">
 <Shape>
                         <Polygon POINTS="155 115 936 115 936 168 155 168 155 115"/>
                     </Shape>
@@ -47,7 +47,7 @@
                         <String CONTENT=""/>
                     </TextLine>
 </TextBlock>
-                <TextBlock ID="block_2" HPOS="97" VPOS="186" WIDTH="857" HEIGHT="205" TAGREFS="REGION_TYPE_8">
+                <TextBlock ID="block_2" HPOS="97" VPOS="186" WIDTH="857" HEIGHT="205" TAGREFS="REGION_TYPE_15">
 <Shape>
                         <Polygon POINTS="97 186 954 186 954 391 97 391 97 186"/>
                     </Shape>
@@ -79,7 +79,7 @@
                         <String CONTENT=""/>
                     </TextLine>
 </TextBlock>
-                <TextBlock ID="block_3" HPOS="143" VPOS="397" WIDTH="786" HEIGHT="45" TAGREFS="REGION_TYPE_3">
+                <TextBlock ID="block_3" HPOS="143" VPOS="397" WIDTH="786" HEIGHT="45" TAGREFS="REGION_TYPE_7">
 <Shape>
                         <Polygon POINTS="143 397 929 397 929 442 143 442 143 397"/>
                     </Shape>
@@ -90,7 +90,7 @@
                         <String CONTENT=""/>
                     </TextLine>
 </TextBlock>
-                <TextBlock ID="block_4" HPOS="89" VPOS="446" WIDTH="860" HEIGHT="357" TAGREFS="REGION_TYPE_6">
+                <TextBlock ID="block_4" HPOS="89" VPOS="446" WIDTH="860" HEIGHT="357" TAGREFS="REGION_TYPE_12">
 <Shape>
                         <Polygon POINTS="89 446 949 446 949 803 89 803 89 446"/>
                     </Shape>
@@ -143,7 +143,7 @@
                         <String CONTENT=""/>
                     </TextLine>
 </TextBlock>
-                <TextBlock ID="block_5" HPOS="189" VPOS="809" WIDTH="644" HEIGHT="44" TAGREFS="REGION_TYPE_3">
+                <TextBlock ID="block_5" HPOS="189" VPOS="809" WIDTH="644" HEIGHT="44" TAGREFS="REGION_TYPE_7">
 <Shape>
                         <Polygon POINTS="189 809 833 809 833 853 189 853 189 809"/>
                     </Shape>
@@ -154,7 +154,7 @@
                         <String CONTENT=""/>
                     </TextLine>
 </TextBlock>
-                <TextBlock ID="block_6" HPOS="80" VPOS="859" WIDTH="868" HEIGHT="673" TAGREFS="REGION_TYPE_6">
+                <TextBlock ID="block_6" HPOS="80" VPOS="859" WIDTH="868" HEIGHT="673" TAGREFS="REGION_TYPE_12">
 <Shape>
                         <Polygon POINTS="80 859 948 859 948 1532 80 1532 80 859"/>
                     </Shape>
@@ -249,7 +249,7 @@
                         <String CONTENT=""/>
                     </TextLine>
 </TextBlock>
-                <TextBlock ID="block_7" HPOS="651" VPOS="1534" WIDTH="288" HEIGHT="54" TAGREFS="REGION_TYPE_11">
+                <TextBlock ID="block_7" HPOS="651" VPOS="1534" WIDTH="288" HEIGHT="54" TAGREFS="REGION_TYPE_13">
 <Shape>
                         <Polygon POINTS="651 1534 939 1534 939 1588 651 1588 651 1534"/>
                     </Shape>
@@ -267,27 +267,27 @@
                         <String CONTENT=""/>
                     </TextLine>
 </TextBlock>
-                <TextBlock ID="block_8" HPOS="948" VPOS="961" WIDTH="142" HEIGHT="123" TAGREFS="REGION_TYPE_12">
+                <TextBlock ID="block_8" HPOS="948" VPOS="961" WIDTH="142" HEIGHT="123" TAGREFS="REGION_TYPE_6">
 <Shape>
                         <Polygon POINTS="948 961 1090 961 1090 1084 948 1084 948 961"/>
                     </Shape></TextBlock>
-                <TextBlock ID="block_9" HPOS="947" VPOS="854" WIDTH="126" HEIGHT="61" TAGREFS="REGION_TYPE_12">
+                <TextBlock ID="block_9" HPOS="947" VPOS="854" WIDTH="126" HEIGHT="61" TAGREFS="REGION_TYPE_6">
 <Shape>
                         <Polygon POINTS="947 854 1073 854 1073 915 947 915 947 854"/>
                     </Shape></TextBlock>
-                <TextBlock ID="block_10" HPOS="948" VPOS="1224" WIDTH="138" HEIGHT="56" TAGREFS="REGION_TYPE_12">
+                <TextBlock ID="block_10" HPOS="948" VPOS="1224" WIDTH="138" HEIGHT="56" TAGREFS="REGION_TYPE_6">
 <Shape>
                         <Polygon POINTS="948 1224 1086 1224 1086 1280 948 1280 948 1224"/>
                     </Shape></TextBlock>
-                <TextBlock ID="block_11" HPOS="947" VPOS="493" WIDTH="123" HEIGHT="62" TAGREFS="REGION_TYPE_12">
+                <TextBlock ID="block_11" HPOS="947" VPOS="493" WIDTH="123" HEIGHT="62" TAGREFS="REGION_TYPE_6">
 <Shape>
                         <Polygon POINTS="947 493 1070 493 1070 555 947 555 947 493"/>
                     </Shape></TextBlock>
-                <TextBlock ID="block_12" HPOS="951" VPOS="1122" WIDTH="139" HEIGHT="51" TAGREFS="REGION_TYPE_12">
+                <TextBlock ID="block_12" HPOS="951" VPOS="1122" WIDTH="139" HEIGHT="51" TAGREFS="REGION_TYPE_6">
 <Shape>
                         <Polygon POINTS="951 1122 1090 1122 1090 1173 951 1173 951 1122"/>
                     </Shape></TextBlock>
-                <TextBlock ID="block_13" HPOS="948" VPOS="602" WIDTH="105" HEIGHT="55" TAGREFS="REGION_TYPE_12">
+                <TextBlock ID="block_13" HPOS="948" VPOS="602" WIDTH="105" HEIGHT="55" TAGREFS="REGION_TYPE_6">
 <Shape>
                         <Polygon POINTS="948 602 1053 602 1053 657 948 657 948 602"/>
                     </Shape></TextBlock>

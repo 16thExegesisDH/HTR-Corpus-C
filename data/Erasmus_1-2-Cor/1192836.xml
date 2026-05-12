@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
-      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
   <Description>
     <MeasurementUnit>pixel</MeasurementUnit>
     <sourceImageInformation>
@@ -13,188 +11,59 @@
     <OtherTag ID="LT7" LABEL="CustomLine" DESCRIPTION="line type CustomLine"/><OtherTag ID="LT8" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT9" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT10" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT11" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT12" LABEL="MusicLine" DESCRIPTION="line type MusicLine"/>
   </Tags>
   <Layout>
-    <Page WIDTH="1000"
-          HEIGHT="1365"
-          PHYSICAL_IMG_NR="100"
-          ID="eSc_dummypage_">
-      <PrintSpace HPOS="0"
-                  VPOS="0"
-                  WIDTH="1000"
-                  HEIGHT="1365">
-        <TextBlock HPOS="311"
-                   VPOS="302"
-                   WIDTH="653"
-                   HEIGHT="90"
-                   ID="block_2"
-                   TAGREFS="BT3878">
+    <Page WIDTH="1000" HEIGHT="1365" PHYSICAL_IMG_NR="100" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="1000" HEIGHT="1365">
+        <TextBlock HPOS="311" VPOS="302" WIDTH="653" HEIGHT="90" ID="block_1" TAGREFS="BT3878">
           <Shape><Polygon POINTS="964 302 964 392 311 392 311 302"/></Shape>
-          <TextLine ID="line_2"
-                    TAGREFS="LT8"
-                    BASELINE="323 335 958 342" 
-                    HPOS="322.0"
-                    VPOS="304.0"
-                    WIDTH="636.0"
-                    HEIGHT="51.0">
+          <TextLine ID="line_1" TAGREFS="LT8" BASELINE="323 335 958 342" HPOS="322.0" VPOS="304.0" WIDTH="636.0" HEIGHT="51.0">
             <Shape><Polygon POINTS="322 349 380 350 380 350 381 350 382 350 387 346 422 351 423 351 468 345 481 351 481 351 482 352 506 352 506 351 506 351 507 351 518 345 537 345 546 351 547 351 547 351 548 351 549 351 569 346 584 351 584 351 585 351 586 351 587 351 593 346 634 346 681 351 682 351 705 347 735 354 736 354 737 354 749 348 798 348 823 354 824 354 933 355 934 355 935 355 936 355 944 349 957 349 958 342 957 318 930 318 902 310 901 310 900 310 820 316 809 310 808 310 808 310 807 310 789 315 762 308 761 308 718 307 717 307 657 313 635 309 634 309 633 309 623 314 608 307 607 307 560 307 559 307 559 307 558 307 548 314 482 314 458 306 457 306 456 306 455 306 455 306 445 313 415 313 397 313 386 304 386 304 385 304 384 304 383 304 356 312 323 304 323 335 322 349"/></Shape>
-            <String CONTENT="Præfatio ad reuerendiſſimum D. D. Erardum de Mar¬"
-                    HPOS="322.0"
-                    VPOS="304.0"
-                    WIDTH="636.0"
-                    HEIGHT="51.0"
-                    WC="0.9774275142319349"></String>
+            <String CONTENT="Præfatio ad reuerendiſſimum D. D. Erardum de Mar¬" HPOS="322.0" VPOS="304.0" WIDTH="636.0" HEIGHT="51.0" WC="0.9774275142319349"/>
           </TextLine>
-          <TextLine ID="line_3"
-                    TAGREFS="LT8"
-                    BASELINE="338 370 817 374" 
-                    HPOS="337.0"
-                    VPOS="342.0"
-                    WIDTH="480.0"
-                    HEIGHT="49.0">
+          <TextLine ID="line_2" TAGREFS="LT8" BASELINE="338 370 817 374" HPOS="337.0" VPOS="342.0" WIDTH="480.0" HEIGHT="49.0">
             <Shape><Polygon POINTS="338 370 337 378 371 388 371 388 372 388 429 379 440 389 440 389 441 389 442 389 443 389 460 380 495 380 529 389 530 389 531 390 546 390 546 389 547 389 547 389 557 381 578 381 591 389 592 389 593 389 594 389 594 389 622 382 629 385 630 385 631 385 675 382 694 390 695 390 696 390 732 385 742 390 743 390 744 390 765 386 815 391 817 374 816 353 789 353 779 345 778 345 777 345 765 345 764 345 764 345 740 352 733 346 733 345 732 345 732 345 720 345 720 345 719 345 718 345 708 351 660 345 660 345 659 345 658 345 658 345 650 352 626 352 591 344 562 344 561 344 560 344 559 344 553 349 545 345 544 345 544 345 543 345 530 351 488 344 487 344 453 350 427 342 427 342 426 342 425 342 424 342 418 347 396 342 396 342 338 348 338 370"/></Shape>
-            <String CONTENT="ca principem &amp; epiſcopum Leodienſem."
-                    HPOS="337.0"
-                    VPOS="342.0"
-                    WIDTH="480.0"
-                    HEIGHT="49.0"
-                    WC="0.992813347114457"></String>
+            <String CONTENT="ca principem &amp; epiſcopum Leodienſem." HPOS="337.0" VPOS="342.0" WIDTH="480.0" HEIGHT="49.0" WC="0.992813347114457"/>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="403"
-                   VPOS="239"
-                   WIDTH="487"
-                   HEIGHT="46"
-                   ID="block_1"
-                   TAGREFS="BT18">
+        <TextBlock HPOS="403" VPOS="239" WIDTH="487" HEIGHT="46" ID="block_2" TAGREFS="BT18">
           <Shape><Polygon POINTS="890 239 890 285 403 285 403 239"/></Shape>
-          <TextLine ID="line_1"
-                    TAGREFS="LT8"
-                    BASELINE="411 265 878 269" 
-                    HPOS="411.0"
-                    VPOS="239.0"
-                    WIDTH="467.0"
-                    HEIGHT="42.0">
+          <TextLine ID="line_3" TAGREFS="LT8" BASELINE="411 265 878 269" HPOS="411.0" VPOS="239.0" WIDTH="467.0" HEIGHT="42.0">
             <Shape><Polygon POINTS="485 239 484 239 471 244 465 239 464 239 463 239 462 239 462 239 446 245 439 240 438 240 437 240 437 240 411 240 411 265 411 272 424 276 424 276 425 276 488 273 542 277 543 277 544 277 559 273 625 277 625 277 626 277 638 274 643 279 644 279 644 279 645 279 717 274 748 274 758 279 759 279 760 279 761 279 777 275 801 280 801 280 829 276 839 280 839 280 840 281 877 281 878 269 877 250 832 250 827 244 827 244 826 244 825 244 824 244 823 244 811 249 789 249 761 241 761 241 760 241 696 247 685 241 685 241 684 241 683 241 645 244 615 240 614 240 568 247 547 241 546 241 486 239 485 239"/></Shape>
-            <String CONTENT="ELENCHVS HVIVS OPVSCVLI."
-                    HPOS="411.0"
-                    VPOS="239.0"
-                    WIDTH="467.0"
-                    HEIGHT="42.0"
-                    WC="0.9991746718684832"></String>
+            <String CONTENT="ELENCHVS HVIVS OPVSCVLI." HPOS="411.0" VPOS="239.0" WIDTH="467.0" HEIGHT="42.0" WC="0.9991746718684832"/>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="311"
-                   VPOS="440"
-                   WIDTH="621"
-                   HEIGHT="63"
-                   ID="eSc_textblock_50327b33"
-                   TAGREFS="BT3878">
+        <TextBlock HPOS="311" VPOS="440" WIDTH="621" HEIGHT="63" ID="block_3" TAGREFS="BT3878">
           <Shape><Polygon POINTS="311 440 311 503 932 503 932 440"/></Shape>
-          <TextLine ID="line_4"
-                    TAGREFS="LT8"
-                    BASELINE="319 476 921 483" 
-                    HPOS="318"
-                    VPOS="445"
-                    WIDTH="603"
-                    HEIGHT="53">
+          <TextLine ID="line_4" TAGREFS="LT8" BASELINE="319 476 921 483" HPOS="318" VPOS="445" WIDTH="603" HEIGHT="53">
             <Shape><Polygon POINTS="319 476 318 486 336 486 345 494 345 494 346 494 347 495 378 495 378 494 379 494 394 487 410 494 411 494 411 494 433 490 477 494 477 494 478 494 494 489 505 495 506 495 506 495 507 496 532 496 532 495 533 495 544 489 553 495 554 495 555 495 556 495 567 492 596 496 597 496 597 496 616 489 663 495 663 495 664 495 676 490 735 492 743 498 744 498 745 498 745 498 746 498 767 492 783 498 783 498 784 498 835 497 836 497 836 497 845 492 919 492 921 483 921 460 844 448 843 448 792 458 770 448 769 448 713 448 713 448 712 448 695 457 683 447 682 447 682 447 681 447 638 448 638 448 637 448 625 456 576 456 555 448 554 448 553 448 518 455 503 445 503 445 502 445 501 445 500 445 483 455 456 455 440 447 440 447 439 447 399 454 319 448 319 476"/></Shape>
-            <String CONTENT="Argumentum in priorem ad Corinthios epiſtolam."
-                    HPOS="318"
-                    VPOS="445"
-                    WIDTH="603"
-                    HEIGHT="53"
-                    WC="0.979929699845936"></String>
+            <String CONTENT="Argumentum in priorem ad Corinthios epiſtolam." HPOS="318" VPOS="445" WIDTH="603" HEIGHT="53" WC="0.979929699845936"/>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="304"
-                   VPOS="550"
-                   WIDTH="545"
-                   HEIGHT="58"
-                   ID="eSc_textblock_eb71277e"
-                   TAGREFS="BT3878">
+        <TextBlock HPOS="304" VPOS="550" WIDTH="545" HEIGHT="58" ID="block_4" TAGREFS="BT3878">
           <Shape><Polygon POINTS="304 550 304 608 849 608 849 550"/></Shape>
-          <TextLine ID="line_5"
-                    TAGREFS="LT8"
-                    BASELINE="314 581 838 585" 
-                    HPOS="314"
-                    VPOS="550"
-                    WIDTH="524"
-                    HEIGHT="52">
+          <TextLine ID="line_5" TAGREFS="LT8" BASELINE="314 581 838 585" HPOS="314" VPOS="550" WIDTH="524" HEIGHT="52">
             <Shape><Polygon POINTS="314 581 314 592 348 599 349 599 400 596 418 600 419 600 420 600 443 594 475 600 476 600 588 595 616 601 617 601 635 597 645 602 646 602 647 602 647 602 648 602 648 601 654 596 663 599 663 599 664 599 665 599 674 596 688 602 689 602 690 602 691 602 704 596 748 596 755 602 755 602 756 602 757 602 757 602 837 596 838 585 838 561 811 560 795 553 794 553 793 553 732 559 710 552 710 552 709 552 660 558 638 552 637 552 636 552 635 552 635 552 635 553 628 558 588 558 561 552 560 552 530 557 513 551 512 551 512 551 511 551 496 556 481 551 480 551 479 551 451 555 427 551 427 551 426 551 425 551 417 557 340 557 333 551 333 550 333 550 332 550 314 550 314 581"/></Shape>
-            <String CONTENT="Paraphraſis Eraſmi Roterodami in eandem."
-                    HPOS="314"
-                    VPOS="550"
-                    WIDTH="524"
-                    HEIGHT="52"
-                    WC="0.9987388402223587"></String>
+            <String CONTENT="Paraphraſis Eraſmi Roterodami in eandem." HPOS="314" VPOS="550" WIDTH="524" HEIGHT="52" WC="0.9987388402223587"/>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="309"
-                   VPOS="655"
-                   WIDTH="451"
-                   HEIGHT="56"
-                   ID="eSc_textblock_d81afb1e"
-                   TAGREFS="BT3878">
+        <TextBlock HPOS="309" VPOS="655" WIDTH="451" HEIGHT="56" ID="block_5" TAGREFS="BT3878">
           <Shape><Polygon POINTS="309 655 309 711 760 711 760 655"/></Shape>
-          <TextLine ID="line_6"
-                    TAGREFS="LT8"
-                    BASELINE="314 687 751 691" 
-                    HPOS="314"
-                    VPOS="656"
-                    WIDTH="437"
-                    HEIGHT="53">
+          <TextLine ID="line_6" TAGREFS="LT8" BASELINE="314 687 751 691" HPOS="314" VPOS="656" WIDTH="437" HEIGHT="53">
             <Shape><Polygon POINTS="314 687 314 698 333 706 334 706 335 706 374 706 374 706 375 706 376 706 376 705 383 699 399 699 402 704 403 704 403 705 404 705 405 705 405 705 426 700 440 706 440 706 441 707 470 707 470 706 471 706 486 698 513 704 514 704 553 699 565 703 566 703 566 703 622 699 646 708 647 708 647 709 660 709 660 708 660 708 661 708 661 707 669 700 693 700 704 706 704 706 705 706 706 706 717 700 749 702 751 691 750 663 729 665 720 658 719 658 718 658 690 658 689 658 688 658 688 658 679 665 643 665 629 658 628 658 628 658 627 658 611 665 595 658 594 658 594 658 593 658 569 664 548 657 547 657 490 656 489 656 488 656 474 662 459 657 458 657 457 657 456 657 443 663 314 660 314 687"/></Shape>
-            <String CONTENT="Argumentum eiuſdem in ſecundam."
-                    HPOS="314"
-                    VPOS="656"
-                    WIDTH="437"
-                    HEIGHT="53"
-                    WC="0.9972428756375467"></String>
+            <String CONTENT="Argumentum eiuſdem in ſecundam." HPOS="314" VPOS="656" WIDTH="437" HEIGHT="53" WC="0.9972428756375467"/>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="309"
-                   VPOS="758"
-                   WIDTH="302"
-                   HEIGHT="61"
-                   ID="eSc_textblock_f0b86ac9"
-                   TAGREFS="BT3878">
+        <TextBlock HPOS="309" VPOS="758" WIDTH="302" HEIGHT="61" ID="block_6" TAGREFS="BT3878">
           <Shape><Polygon POINTS="309 758 309 819 611 819 611 758"/></Shape>
-          <TextLine ID="line_7"
-                    TAGREFS="LT8"
-                    BASELINE="312 794 599 794" 
-                    HPOS="312"
-                    VPOS="759"
-                    WIDTH="287"
-                    HEIGHT="53">
+          <TextLine ID="line_7" TAGREFS="LT8" BASELINE="312 794 599 794" HPOS="312" VPOS="759" WIDTH="287" HEIGHT="53">
             <Shape><Polygon POINTS="312 794 312 805 329 812 330 812 330 812 331 812 342 809 422 812 423 812 424 812 424 812 424 812 431 806 453 812 454 812 455 812 455 812 456 812 456 812 464 806 496 812 497 812 498 812 516 806 552 812 553 812 553 812 554 812 564 806 599 806 599 794 599 771 540 766 528 760 528 760 527 760 526 760 525 760 514 769 475 770 447 759 446 759 446 759 445 759 421 770 399 760 398 760 397 760 396 760 396 760 381 771 368 771 358 761 358 760 358 760 357 760 312 759 312 794"/></Shape>
-            <String CONTENT="Paraphraſis in eandem."
-                    HPOS="312"
-                    VPOS="759"
-                    WIDTH="287"
-                    HEIGHT="53"
-                    WC="0.986705565994436"></String>
+            <String CONTENT="Paraphraſis in eandem." HPOS="312" VPOS="759" WIDTH="287" HEIGHT="53" WC="0.986705565994436"/>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="806"
-                   VPOS="904"
-                   WIDTH="152"
-                   HEIGHT="52"
-                   ID="block_4"
-                   TAGREFS="BT17">
+        <TextBlock HPOS="806" VPOS="904" WIDTH="152" HEIGHT="52" ID="block_7" TAGREFS="BT17">
           <Shape><Polygon POINTS="958 904 958 956 806 956 806 904"/></Shape>
-          <TextLine ID="line_8"
-                    TAGREFS="LT8"
-                    BASELINE="816 938 948 939" 
-                    HPOS="815.0"
-                    VPOS="904.0"
-                    WIDTH="133.0"
-                    HEIGHT="50.0">
+          <TextLine ID="line_8" TAGREFS="LT8" BASELINE="816 938 948 939" HPOS="815.0" VPOS="904.0" WIDTH="133.0" HEIGHT="50.0">
             <Shape><Polygon POINTS="853 904 852 904 816 907 816 938 815 947 869 947 877 953 878 953 879 953 880 953 911 947 920 953 921 953 921 953 922 954 947 954 948 939 948 910 943 906 942 906 941 906 940 906 906 911 881 906 880 906 880 906 867 910 854 904 853 904"/></Shape>
-            <String CONTENT="Clariſſimo"
-                    HPOS="815.0"
-                    VPOS="904.0"
-                    WIDTH="133.0"
-                    HEIGHT="50.0"
-                    WC="0.9556384861469269"></String>
+            <String CONTENT="Clariſſimo" HPOS="815.0" VPOS="904.0" WIDTH="133.0" HEIGHT="50.0" WC="0.9556384861469269"/>
           </TextLine>
         </TextBlock>
       </PrintSpace>

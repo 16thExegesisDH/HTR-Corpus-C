@@ -1,8 +1,8 @@
 import glob
 from lxml import etree
 
-# forme du code : folder_path = "Hemmingsen_Rm/*.xml"
-folder_path = "Bugenhagen_rm/*.xml"
+# forme du code : folder_path = "Erasmus_1-2-Cor"
+folder_path = "Erasmus_1-2-Cor/*.xml"
 
 ALTO_NS = "http://www.loc.gov/standards/alto/ns-v4#"
 NSMAP = {"alto": ALTO_NS}

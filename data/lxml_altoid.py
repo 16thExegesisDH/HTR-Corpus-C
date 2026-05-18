@@ -2,7 +2,7 @@ import glob
 from lxml import etree
 
 # forme du code : folder_path = "Megander_Eph"
-folder_path = "Major_Rm/*.xml" 
+folder_path = "Megander_Eph/*.xml" 
 #folder_path = "Megander_Eph/*.xml" 
 
 ALTO_NS = "http://www.loc.gov/standards/alto/ns-v4#"

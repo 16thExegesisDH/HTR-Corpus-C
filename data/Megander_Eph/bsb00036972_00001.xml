@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
-      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
   <Description>
     <MeasurementUnit>pixel</MeasurementUnit>
     <sourceImageInformation>
@@ -13,35 +11,13 @@
     <OtherTag ID="LT7" LABEL="CustomLine" DESCRIPTION="line type CustomLine"/><OtherTag ID="LT8" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT9" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT10" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT11" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT12" LABEL="MusicLine" DESCRIPTION="line type MusicLine"/>
   </Tags>
   <Layout>
-    <Page WIDTH="1407"
-          HEIGHT="1942"
-          PHYSICAL_IMG_NR="0"
-          ID="eSc_dummypage_">
-      <PrintSpace HPOS="0"
-                  VPOS="0"
-                  WIDTH="1407"
-                  HEIGHT="1942">
-        <TextBlock HPOS="77.0"
-                   VPOS="0.0"
-                   WIDTH="1330.0"
-                   HEIGHT="1889.0"
-                   ID="block_1"
-                   TAGREFS="BT3912">
+    <Page WIDTH="1407" HEIGHT="1942" PHYSICAL_IMG_NR="0" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="1407" HEIGHT="1942">
+        <TextBlock HPOS="77.0" VPOS="0.0" WIDTH="1330.0" HEIGHT="1889.0" ID="block_1" TAGREFS="BT3912">
           <Shape><Polygon POINTS="77 0 1407 0 1407 1889 77 1889 77 0"/></Shape>
-          <TextLine ID="line_1"
-                    TAGREFS="LT8"
-                    BASELINE="1066 1448 1173 1452" 
-                    HPOS="1064.0"
-                    VPOS="1419.0"
-                    WIDTH="109.0"
-                    HEIGHT="47.0">
+          <TextLine ID="line_1" TAGREFS="LT8" BASELINE="1066 1448 1173 1452" HPOS="1064.0" VPOS="1419.0" WIDTH="109.0" HEIGHT="47.0">
             <Shape><Polygon POINTS="1064 1454 1171 1466 1173 1452 1173 1427 1152 1421 1151 1421 1150 1421 1149 1421 1148 1421 1142 1427 1124 1421 1123 1421 1122 1421 1088 1426 1067 1419 1066 1448 1064 1454"/></Shape>
-            <String CONTENT=""
-                    HPOS="1064.0"
-                    VPOS="1419.0"
-                    WIDTH="109.0"
-                    HEIGHT="47.0"
-                    ></String>
+            <String CONTENT="" HPOS="1064.0" VPOS="1419.0" WIDTH="109.0" HEIGHT="47.0"/>
           </TextLine>
         </TextBlock>
       </PrintSpace>

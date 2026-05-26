@@ -80,8 +80,8 @@ characters:
   - α
   - '6'
   - ο
-  - F
   - '8'
+  - F
   - ι
   - '0'
   - '7'
@@ -126,8 +126,8 @@ characters:
   - χ
   - Y
   - ̧
-  - '*'
   - 
+  - '*'
   - ’
   - ꝑ
   - J
@@ -157,6 +157,7 @@ characters:
   - ᗅ
   - '|'
   - Τ
+  - °
   - Μ
   - Σ
   - '{'
@@ -187,11 +188,11 @@ title: Corpus-A
 transcription-guidelines: Our data follow SegmOnto segmentation standards (https://segmonto.github.io).
 url: https://github.com/16thExegesisDH/HTR-Corpus-C
 volume:
-- count: 1809841
+- count: 1809908
   metric: characters
 - count: 1944
   metric: files
-- count: 54394
+- count: 54380
   metric: lines
-- count: 13133
+- count: 13119
   metric: regions

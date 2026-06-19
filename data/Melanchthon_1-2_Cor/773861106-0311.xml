@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
-      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
   <Description>
     <MeasurementUnit>pixel</MeasurementUnit>
     <sourceImageInformation>
@@ -13,29 +11,12 @@
     <OtherTag ID="LT7" LABEL="CustomLine" DESCRIPTION="line type CustomLine"/><OtherTag ID="LT8" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT9" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT10" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT11" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT12" LABEL="MusicLine" DESCRIPTION="line type MusicLine"/>
   </Tags>
   <Layout>
-    <Page WIDTH="1371"
-          HEIGHT="2195"
-          PHYSICAL_IMG_NR="153"
-          ID="eSc_dummypage_">
-      <PrintSpace HPOS="0"
-                  VPOS="0"
-                  WIDTH="1371"
-                  HEIGHT="2195">
-        <TextBlock ID="eSc_dummyblock_">
-          <TextLine ID="line_1"
-                    TAGREFS="LT8"
-                    BASELINE="735 1980 1089 1982" 
-                    HPOS="734.0"
-                    VPOS="1927.0"
-                    WIDTH="355.0"
-                    HEIGHT="96.0">
+    <Page WIDTH="1371" HEIGHT="2195" PHYSICAL_IMG_NR="153" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="1371" HEIGHT="2195">
+        <TextBlock ID="block_1">
+          <TextLine ID="line_1" TAGREFS="LT8" BASELINE="735 1980 1089 1982" HPOS="734.0" VPOS="1927.0" WIDTH="355.0" HEIGHT="96.0">
             <Shape><Polygon POINTS="735 1980 734 1995 787 2001 822 2020 823 2020 824 2021 862 2021 862 2020 863 2020 900 2003 945 2021 946 2021 947 2023 994 2023 994 2021 995 2021 996 2021 1029 1998 1088 1998 1089 1982 1089 1945 1078 1935 1078 1934 1077 1934 1075 1934 1034 1927 955 1927 953 1927 952 1927 951 1927 925 1945 887 1953 856 1953 835 1942 834 1942 833 1942 735 1951 735 1980"/></Shape>
-            <String CONTENT="xegeie T. 6"
-                    HPOS="734.0"
-                    VPOS="1927.0"
-                    WIDTH="355.0"
-                    HEIGHT="96.0"
-                    WC="0.9294299808415499"></String>
+            <String CONTENT="xegeie T. 6" HPOS="734.0" VPOS="1927.0" WIDTH="355.0" HEIGHT="96.0" WC="0.9294299808415499"/>
           </TextLine>
         </TextBlock>
       </PrintSpace>

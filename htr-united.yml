@@ -91,8 +91,8 @@ characters:
   - ̂
   - (
   - ̈
-  - z
   - ε
+  - z
   - ν
   - '-'
   - £
@@ -161,7 +161,7 @@ characters:
   - °
   - Μ
   - Σ
-  - '{'
+  - «
   - Ε
   mode: NFD
 description: Data for data for Paul’s exegesis.
@@ -188,11 +188,11 @@ title: Corpus-A
 transcription-guidelines: Our data follow SegmOnto segmentation standards (https://segmonto.github.io).
 url: https://github.com/16thExegesisDH/HTR-Corpus-C
 volume:
-- count: 2382440
+- count: 2382918
   metric: characters
 - count: 2423
   metric: files
-- count: 68384
+- count: 68355
   metric: lines
-- count: 16237
+- count: 16231
   metric: regions

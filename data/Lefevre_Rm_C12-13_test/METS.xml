@@ -4,15 +4,23 @@
     <fileGrp USE="export">
       
         <file ID="export1">
-          <FLocat xlink:href="bsb11059175_00501.xml"/>
+          <FLocat xlink:href="bsb11059175_00504.xml"/>
         </file>
       
         <file ID="export2">
-          <FLocat xlink:href="bsb11059175_00502.xml"/>
+          <FLocat xlink:href="bsb11059175_00505.xml"/>
         </file>
       
         <file ID="export3">
-          <FLocat xlink:href="bsb11059175_00503.xml"/>
+          <FLocat xlink:href="bsb11059175_00506.xml"/>
+        </file>
+      
+        <file ID="export4">
+          <FLocat xlink:href="bsb11059175_00507.xml"/>
+        </file>
+      
+        <file ID="export5">
+          <FLocat xlink:href="bsb11059175_00508.xml"/>
         </file>
       
     </fileGrp>
@@ -33,6 +41,16 @@
       <div TYPE="page">
         
         <fptr FILEID="export3"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export4"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export5"/>
       </div>
       
     </div>

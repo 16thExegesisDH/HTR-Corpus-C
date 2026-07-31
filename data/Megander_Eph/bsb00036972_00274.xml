@@ -1,5 +1,7 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
   <Description>
     <MeasurementUnit>pixel</MeasurementUnit>
     <sourceImageInformation>
@@ -11,24 +13,77 @@
     <OtherTag ID="LT7" LABEL="CustomLine" DESCRIPTION="line type CustomLine"/><OtherTag ID="LT8" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT9" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT10" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT11" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT12" LABEL="MusicLine" DESCRIPTION="line type MusicLine"/>
   </Tags>
   <Layout>
-    <Page WIDTH="1200" HEIGHT="1884" PHYSICAL_IMG_NR="273" ID="eSc_dummypage_">
-      <PrintSpace HPOS="0" VPOS="0" WIDTH="1200" HEIGHT="1884">
-        <TextBlock HPOS="349.0" VPOS="691.0" WIDTH="795.0" HEIGHT="275.0" ID="block_1" TAGREFS="BT3914">
+    <Page WIDTH="1200"
+          HEIGHT="1884"
+          PHYSICAL_IMG_NR="273"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1200"
+                  HEIGHT="1884">
+        <TextBlock HPOS="349.0"
+                   VPOS="691.0"
+                   WIDTH="795.0"
+                   HEIGHT="275.0"
+                   ID="block_1"
+                   TAGREFS="BT3914">
           <Shape><Polygon POINTS="349 691 1144 691 1144 966 349 966 349 691"/></Shape>
-          <TextLine ID="line_1" BASELINE="361 742 411 742 553 742 729 772 807 769 840 776 870 770 919 767 904 760 938 766 1072 776 1106 770" HPOS="361" VPOS="742" WIDTH="745" HEIGHT="34">
-            <String CONTENT="BASILE AE EXCVDEBAT" HPOS="361" VPOS="742" WIDTH="745" HEIGHT="34"/>
+          <TextLine ID="eSc_line_ff9e4adc"
+                    BASELINE="361 742 411 742 553 742 729 772 807 769 840 776 870 770 919 767 904 760 938 766 1072 776 1106 770" 
+                    HPOS="361"
+                    VPOS="742"
+                    WIDTH="745"
+                    HEIGHT="34">
+            <String CONTENT="BASILE AE EXCVDEBAT"
+                    HPOS="361"
+                    VPOS="742"
+                    WIDTH="745"
+                    HEIGHT="34"
+                    ></String>
           </TextLine>
-          <TextLine ID="line_2" TAGREFS="LT8" BASELINE="406 800 1067 827" HPOS="403" VPOS="755" WIDTH="663" HEIGHT="100">
+          <TextLine ID="line_3"
+                    TAGREFS="LT8"
+                    BASELINE="406 800 1067 827" 
+                    HPOS="403"
+                    VPOS="755"
+                    WIDTH="663"
+                    HEIGHT="100">
             <Shape><Polygon POINTS="403 821 482 835 483 835 537 824 601 832 603 832 636 825 651 833 653 833 654 833 736 832 752 844 752 846 753 846 755 846 808 847 810 847 812 847 845 835 879 846 881 846 882 846 958 841 984 855 986 855 987 855 1064 852 1066 825 1064 788 981 788 931 777 929 777 928 777 906 785 797 783 731 770 730 770 680 777 563 761 562 761 419 763 408 755 405 799 403 821"/></Shape>
-            <String CONTENT="HENRICVS PETRVS, MENSE" HPOS="403" VPOS="755" WIDTH="663" HEIGHT="100" WC="0.9992985644123771"/>
+            <String CONTENT="HENRICVS PETRVS, MENSE"
+                    HPOS="403"
+                    VPOS="755"
+                    WIDTH="663"
+                    HEIGHT="100"
+                    WC="0.9992985644123771"></String>
           </TextLine>
-          <TextLine ID="line_3" BASELINE="521 875 539 875 570 877 667 877 785 884 908 884 942 890" HPOS="518" VPOS="830" WIDTH="422" HEIGHT="72">
+          <TextLine ID="eSc_line_f93408c8"
+                    BASELINE="521 875 539 875 570 877 667 877 785 884 908 884 942 890" 
+                    HPOS="518"
+                    VPOS="830"
+                    WIDTH="422"
+                    HEIGHT="72">
             <Shape><Polygon POINTS="519 874 518 887 937 902 940 888 940 843 772 846 739 835 738 835 736 835 684 841 653 832 651 832 650 832 648 832 625 839 587 830 585 830 584 830 519 836 519 874"/></Shape>
-            <String CONTENT="AVGVSTO, ANNO" HPOS="518" VPOS="830" WIDTH="422" HEIGHT="72" WC="0.9994552777363703"/>
+            <String CONTENT="AVGVSTO, ANNO"
+                    HPOS="518"
+                    VPOS="830"
+                    WIDTH="422"
+                    HEIGHT="72"
+                    WC="0.9994552777363703"></String>
           </TextLine>
-          <TextLine ID="line_4" TAGREFS="LT8" BASELINE="578 934 898 950" HPOS="574" VPOS="896" WIDTH="322" HEIGHT="75">
+          <TextLine ID="line_1"
+                    TAGREFS="LT8"
+                    BASELINE="578 934 898 950" 
+                    HPOS="574"
+                    VPOS="896"
+                    WIDTH="322"
+                    HEIGHT="75">
             <Shape><Polygon POINTS="576 932 574 954 665 960 667 960 669 960 692 951 893 971 896 949 896 909 578 896 576 932"/></Shape>
-            <String CONTENT="M.D. XXXIIII." HPOS="574" VPOS="896" WIDTH="322" HEIGHT="75" WC="0.9440085979608389"/>
+            <String CONTENT="M.D. XXXIIII."
+                    HPOS="574"
+                    VPOS="896"
+                    WIDTH="322"
+                    HEIGHT="75"
+                    WC="0.9440085979608389"></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>
